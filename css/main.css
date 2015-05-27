@@ -137,3 +137,40 @@ h1, h2, h3, h4, h5, h6 {
   display:table;
   clear:both;
 }
+
+.education-experience__list img {
+  width: 180px;
+  float: left;
+  margin-right: 50px;
+  padding-top: 35px;
+}
+
+.education-experience__list li {
+  overflow: hidden;
+  margin: 50px auto;
+  display: block;
+}
+
+.education-experience__list h3 {
+  font-size: 30px;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,*:before,*:after {
+  box-sizing: inherit;
+}
+
+
+.photos__list li { 
+  width: 25%;
+  float:left;
+}
+
+.photos__list img {
+  display: block;
+  padding: 10px;
+  width: 100%;
+}
