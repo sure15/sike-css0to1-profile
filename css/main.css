@@ -92,6 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 .whatido__skill-list {
     list-style: none;
     margin-top: 60px;
+    text-align: center;
     overflow: hidden;
 }
 
